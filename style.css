@@ -1,0 +1,24 @@
+body{
+    background-size: cover;   
+}
+.heading{
+    width: 100%;
+    margin-top: 0;
+    line-height: 2;
+    font-size: 20;
+}
+label{
+    font-size: 18px;
+}
+.object_type{
+    width: 60%;
+    text-align: center;
+    line-height: 3;
+}
+
+canvas{
+    margin-top: 150px;
+    border: 1px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+}
